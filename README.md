@@ -8,4 +8,5 @@ Berikut perintah-perintah yang ada:
 5. git pull  
 6. git add
 7. git commit
-8. git push  
+8. git push
+9. git merge  
