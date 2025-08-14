@@ -6,4 +6,5 @@ Berikut perintah-perintah yang ada:
 3. git fork  
 4. git checkout  
 5. git pull  
-6. git add  
+6. git add
+7. git commit  
