@@ -7,4 +7,5 @@ Berikut perintah-perintah yang ada:
 4. git checkout  
 5. git pull  
 6. git add
-7. git commit  
+7. git commit
+8. git push  
